@@ -1,0 +1,4 @@
+This is a line of text
+This line    contains   too many   spaces
+This,line,has,too,few
+THIS LiNE conTAINS unusual CAPITALization and weird#@^%&*symbols
